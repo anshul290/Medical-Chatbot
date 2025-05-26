@@ -9,7 +9,7 @@ Clone the repository
 Project repo: https://github.com/
 ```
 
-### STEP 01- Create a conda environment after opening the repository
+### Create a conda environment after opening the repository
 
 ```bash
 conda create -n mchatbot python=3.12.7 -y
@@ -19,7 +19,7 @@ conda create -n mchatbot python=3.12.7 -y
 conda activate mchatbot
 ```
 
-### STEP 02- install the requirements
+### Install the requirements
 ```bash
 pip install -r requirements.txt
 ```
@@ -39,6 +39,8 @@ PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ## Download the Llama 2 Model:
 
 llama-2-7b-chat.ggmlv3.q4_0.bin
+
+### Create a Model folder and add the llama model in it
 
 
 ## From the following link:
