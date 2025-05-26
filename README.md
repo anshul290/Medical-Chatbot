@@ -40,12 +40,11 @@ PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 llama-2-7b-chat.ggmlv3.q4_0.bin
 
-### Create a Model folder and add the llama model in it
-
-
 ## From the following link:
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 ```
+
+### Create a Model folder and add the llama model in it
 
 ```bash
 # run the following command
